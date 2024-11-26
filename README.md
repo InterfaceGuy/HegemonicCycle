@@ -1,0 +1,3 @@
+# HegemonicCycle
+
+![](HegemonicCycle.gif)
